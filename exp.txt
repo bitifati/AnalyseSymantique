@@ -1,0 +1,7 @@
+program L3
+integer i,i,j,k;
+real k;
+begin
+i=2;
+j=i/0;
+end
